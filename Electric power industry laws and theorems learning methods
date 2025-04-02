@@ -1,0 +1,31 @@
+Take the study of these two laws as an example.
+# 1.Kirchhoff’s Current Law
+## Concept or content
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/74ebdfa0142c4e7bad7d6bb4dba7e93c.png#pic_center)
+At any given moment, the sum of the currents flowing into any node is equal to the sum of the currents flowing out of that node. I usually study with the concept of this law in mind.
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/59ea6080f6ac4de886639724db95d259.png#pic_center)
+And then this screenshot is written branch, node, loop, mesh these concepts, you have to remember, otherwise you will not know what these terms mean when you use these concepts in the future.
+## Generalization and application (including circuit scenarios used after law generalization and calculation of the required values in the circuit after derivation)
+Some laws and theorems are only used to promote the use of the line, do not push the director into other laws or summarized into formulas, sometimes have to deduce another law or other formulas through this law, because in the circuit design, it is sometimes necessary to calculate a large number of circuit data to choose the required line or component, or other.
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e60cc0cc8af54f8aa80e12a8b4d29fbe.png#pic_center)
+This diagram is a generalization of this law, for example, on the closed side of this circuit.
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/587b4e30ae2042108b68f02737cb70ad.png#pic_center)
+This is an example after learning the law, to test whether you understand this law and can skillfully use it.
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e3f983d4a4474915a9566aa209e8731f.png#pic_center)
+The above figure shows the generalization and application of the circuit in the left figure and the required value of the circuit calculated through the deduction of this law.
+# 2.Kirchhoff's voltage law
+## Concept or content
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/853899d863f640b381be926424d48255.png#pic_center)
+## Generalization and application (including circuit scenarios used after law generalization and calculation of the required values in the circuit after derivation)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8efb69a3b964458d8e147d938ad81ef7.png#pic_center)
+
+---
+
+# Summary of learning methods
+
+1. Learn the concepts related to laws and the meaning of new words, and remember and know what the word means and which law it refers to next time you see it. (Then you can query the content of the relevant law when using it.) 
+2. Learn the original use and application method of the law. 
+3. The use of analogy, when necessary to promote the evolution of the law and related required data calculation.
