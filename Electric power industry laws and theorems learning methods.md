@@ -1,5 +1,8 @@
 The law and the method of learning the law I will use these two laws as examples, you can learn this method of learning, learn quickly, understand quickly, and remember accurately.
 (For the rest of the world who want to learn, you can learn to read this article by translating it directly into your own language.)
+## Welcome to click the little star to subscribe, The article will be updated continuously. I design circuit diagrams or written code sometimes share some here.
+
+
 # 1.Kirchhoff’s Current Law
 ## Concept or content
 
